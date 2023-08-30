@@ -111,4 +111,4 @@ quotes = ["<q>The question of who strikes first in a war is on the same level as
 customquote = quotes[Math.floor((Math.random() * quotes.length))]
 
 
-corrr=`\n<h2>IMPERIVM</h2><font id='wittyquote' size='3.5' color='white'><em>`+customquote+`</em></font>`
+corrr=`\n<h2>IMPERIUM</h2><font id='wittyquote' size='3.5' color='white'><em>`+customquote+`</em></font>`
