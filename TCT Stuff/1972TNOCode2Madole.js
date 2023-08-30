@@ -6522,7 +6522,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3252,
             "candidate": 23,
             "affected_candidate": 23,
-            "global_multiplier": 0.035
+            "global_multiplier": 0.03
         }
     },
     {
@@ -6752,7 +6752,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 8739559,
             "candidate": 23,
             "affected_candidate": 23,
-            "global_multiplier": 0.0435
+            "global_multiplier": 0.4
         }
     },
     {
@@ -9850,4 +9850,3 @@ setMusic = (url, override = false) => {
     aud.play();
     return 0;
 }
-
