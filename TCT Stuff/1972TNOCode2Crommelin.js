@@ -1,4 +1,3 @@
-//woke moralists arent allowed in this code
 campaignTrail_temp.questions_json = [
     {
         "model": "campaign_trail.question",
@@ -6793,7 +6792,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 8739559,
             "candidate": 23,
             "affected_candidate": 23,
-            "global_multiplier": 0.0435
+            "global_multiplier": 0.04
         }
     },
     {
@@ -8982,7 +8981,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1741,
             "candidate": 23,
-            "answer_feedback": "I don't need to explain why this is terrible, expect a nosedive in the polls."
+            "answer_feedback": "A few days after making this statement, you're at a routine rally in Alabama. You hear 6 loud bangs ring out as you collapse to the floor, blood gushing out of your chest and mouth until it all went dark. And just like that, Arthur Bremer made history."
         }
     },
     {
@@ -9924,4 +9923,3 @@ setMusic = (url, override = false) => {
     aud.play();
     return 0;
 }
-
