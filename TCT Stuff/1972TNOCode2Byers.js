@@ -8929,7 +8929,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 1741,
             "candidate": 23,
-            "answer_feedback": "A few days after making this statement, you're at a routine rally in Alabama. You hear 6 loud bangs ring out as you collapse to the floor, blood gushing out of your chest and mouth until it all went dark. And just like that, Arthur Bremer made history."
+            "answer_feedback": "I don't need to explain why this is terrible, expect a nosedive in the polls."
         }
     },
     {
