@@ -1,3 +1,4 @@
+//woke moralists arent allowed in this code
 campaignTrail_temp.questions_json = [
     {
         "model": "campaign_trail.question",
@@ -885,7 +886,7 @@ campaignTrail_temp.answers_json = [
         "pk": 8739782,
         "fields": {
             "question": 269,
-            "description": "I have a most magnificent idea. We will negotiate with Hall and, in exchange for him dropping out, I will dump Byers from the ticket and take him on as my Vice President. What a genius idea."
+            "description": "I have a most magnificent idea. We will negotiate with Hall and, in exchange for him dropping out, I will dump Crommelin from the ticket and take him on as my Vice President. What a genius idea."
         }
     },
     {
@@ -6792,7 +6793,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 8739559,
             "candidate": 23,
             "affected_candidate": 23,
-            "global_multiplier": 0.04
+            "global_multiplier": 0.0435
         }
     },
     {
